@@ -1,3 +1,6 @@
+<img src="https://wakatime.com/badge/user/018ce58d-21c5-495c-ac89-594f2c59de38.svg">
+
+![Soham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sohamdas&layout=compact&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Soham Das</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>

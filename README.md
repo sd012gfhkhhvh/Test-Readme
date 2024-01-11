@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sd012gfhkhhvh&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
+
 <img src="https://wakatime.com/badge/user/018ce58d-21c5-495c-ac89-594f2c59de38.svg">
 
 ![Soham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sohamdas&layout=compact&theme=radical)

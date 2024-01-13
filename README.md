@@ -1,3 +1,6 @@
+## `The Curent version does not support mobiles Devices`
+
+
 <div align="center">
 	
 ![gdg](https://github.com/sd012gfhkhhvh/Slate.AI/blob/main/client/src/assets/slateAI-logo-dark.png)
